@@ -1,0 +1,10 @@
+123/
+save/
+run/*.ipynb
+run/__pycache__/
+run/wandb
+run/*.txt
+
+
+
+# End of https://www.gitignore.io/api/python
