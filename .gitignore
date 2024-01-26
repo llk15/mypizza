@@ -4,6 +4,8 @@ run/*.ipynb
 run/__pycache__/
 run/wandb
 run/*.txt
+run/paper*
+run/test*
 
 
 
